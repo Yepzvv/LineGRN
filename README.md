@@ -1,4 +1,4 @@
-# LineGRN
+# LineGRN: line graph neural network for gene regulatory network inference
 
 ![Framework](/Figure/Framework.png)
 
