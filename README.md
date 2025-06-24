@@ -10,6 +10,12 @@
 - torch-geometric 2.6.1
 
 ## Usage
+Setup the required environment using the provided `environment.txt` file:
+```
+pip install -r requirements.txt
+```
+
+Then we can run the model:
 ```
 bash run.sh
 ```
