@@ -10,7 +10,7 @@
 - torch-geometric 2.6.1
 
 ## Usage
-Setup the required environment using the provided `environment.txt` file:
+Setup the required environment using the provided `requirements.txt` file:
 ```
 pip install -r requirements.txt
 ```
